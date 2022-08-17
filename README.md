@@ -1,8 +1,6 @@
 ## Charity Network
 Charity Network is an app that will serve as a communication platform among donors, volunteers, and charitable organizations. Through this app, donors will be able to search for charitable organizations through Google Maps and have charitable events at their fingertips.Mean while organizations will be able to enjoy the privilege of seeking and collecting funds without any hassle. Another important feature of this application is provisions for volunteering. Anyone who
 is interested in serving the society can sign up as volunteers to organize fundraising events.
-## Demonstration of Charity Network
-### https://youtu.be/TFDJaxYfjKg
 ## Platform
 Developed in Android Studio 4.1.3
 ## Language
